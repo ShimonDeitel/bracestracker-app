@@ -1,0 +1,29 @@
+{
+  "identifier" : "BracesTracker",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "bracestracker_pro",
+      "localizations" : [
+        {
+          "description" : "Rubber-band wear-time checklist and reminders",
+          "displayName" : "Braces Tracker Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.bracestracker.pro",
+      "referenceName" : "Braces Tracker Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
